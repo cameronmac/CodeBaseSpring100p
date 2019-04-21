@@ -2,14 +2,14 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/javax-inject.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-aop-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-aspects-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-beans-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-context-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-context-support-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-core-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/1spring4.3.9/spring-expression-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/JEE/JEE/Plugins/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-aop-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-aspects-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-beans-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-context-support-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-core-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/spring-framework-5.1.4.RELEASE/libs/spring-expression-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/01Java/Spring_Framework/Spring_Materials/Jars/javax.inject-1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
